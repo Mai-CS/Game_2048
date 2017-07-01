@@ -6,6 +6,9 @@ Slide numbered tiles on a grid to combine them to create a tile with the number 
 <img src="http://s31.postimg.org/il1d0xdqz/Screenshot_2015_09_16_18_44_00.png" />
 <img src="http://s31.postimg.org/t3iz74mvv/Screenshot_2015_09_16_18_44_32.png" /><br>
 
+# Tools & Technologies
+Library to detect swipe direction, Files handling, Dialogs
+
 # License
 <pre><code>
    Copyright 2016 Mai Ahmed
