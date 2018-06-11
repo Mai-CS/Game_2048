@@ -2,9 +2,7 @@
 Slide numbered tiles on a grid to combine them to create a tile with the number 2048<br>
 
 # Screenshots
-<img src="http://s31.postimg.org/v9cti99ej/Screenshot_2015_09_16_18_45_42.png" />
-<img src="http://s31.postimg.org/il1d0xdqz/Screenshot_2015_09_16_18_44_00.png" />
-<img src="http://s31.postimg.org/t3iz74mvv/Screenshot_2015_09_16_18_44_32.png" /><br>
+<img src="https://image.ibb.co/huqe08/screener_1495791142640.png" /><br>
 
 # Tools & Technologies
 Library to detect swipe direction, Files handling, Dialogs
